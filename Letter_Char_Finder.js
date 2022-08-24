@@ -11,7 +11,7 @@ function letterFinder(word, match) { // read the word, then scan for letter
 }
 
 // This code even works with characters
-letterFinder("insert_word_you_would_test", "_")
+letterFinder("insert_char_you_would_test", "_")
 
 /* Output should be:
 ---No match found at 0
